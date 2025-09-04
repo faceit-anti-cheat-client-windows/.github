@@ -20,7 +20,8 @@ By running silently in the background, it ensures **fair matchmaking, reliable e
 ## 📸 Overview
 A quick look at key parts in action:
 
-<img width="1400" height="787" alt="faceit-client" src="https://github.com/user-attachments/assets/c7b0e24e-ee2d-4639-be3c-77e6db742569" />
+<img width="1600" height="788" alt="faceit-client" src="https://github.com/user-attachments/assets/65c50e39-8f8d-4e68-bab6-5dd5f03e6d14" />
+
 
 ---
 
